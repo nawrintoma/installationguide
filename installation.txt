@@ -1,0 +1,8 @@
+Savlet installation:
+
+1.Create a directory structure under Tomcat for your application
+2.Write the servlet source code. You need to import the javax.servlet package and the javax.servlet.http package in your source file.
+3.Compile your source code.
+4.Create a deployment descriptor.
+5.Run Tomcat.
+6.Call your servlet from a web browser.
